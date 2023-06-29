@@ -1,0 +1,9 @@
+[submodule "ct-study-golang"]
+	path = ct-study-golang
+	url = git@github.com:Cachetian/ct-study-golang.git
+[submodule "ct-study-java"]
+	path = ct-study-java
+	url = git@github.com:Cachetian/ct-study-java.git
+[submodule "ct-study-node"]
+	path = ct-study-node
+	url = git@github.com:Cachetian/ct-study-node.git
